@@ -10,7 +10,9 @@
         }
     ],
     "license": "MIT",
-    "require": {"monolog/monolog": "1.0.*"},
+    "require": {
+        "leho25/wed": "*"
+    }, 
     "autoload": {
         "psr-4": {
             "leducphuoc2001\\backend\\": "/"
